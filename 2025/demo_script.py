@@ -2,7 +2,7 @@
 
 import os, json
 
-DIRECTORIO = '/home/oys/FLISOL_UAM/2025/experimento'
+DIRECTORIO = '/home/oys/FLISOL/2025/experimento'
 
 clave = dict()
 
